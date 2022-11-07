@@ -62,6 +62,7 @@
 </a>&nbsp;&nbsp;
 </details>
 
+<br>
 <p align='left'>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=pvbaleeiro"</a>
 </p>
