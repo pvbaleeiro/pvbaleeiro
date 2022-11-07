@@ -63,7 +63,7 @@
 </details>
 
 <p align='left'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/pvbaleeiro/pvbaleeiro"></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=pvbaleeiro"</a>
 </p>
 
 
