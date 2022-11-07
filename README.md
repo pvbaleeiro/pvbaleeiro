@@ -4,7 +4,7 @@
 
 🔭 I am an iOS developer based in Sorocaba-SP Brazil. I'm currently working in one of the biggest companies in Brazil, <a href="https://www.portoseguro.com.br/" target="_blank">Porto Seguro.</a>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pvbaleeiro&show_icons=true&count_private=true&theme=default " width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pvbaleeiro&show_icons=true&count_private=true&theme=default" width="350"></a>
 </p>
 
 <details>
